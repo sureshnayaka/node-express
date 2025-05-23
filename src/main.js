@@ -8,10 +8,10 @@ app.use(express.json()); // to parse JSON bodies
 // Sample in-memory data
 let users = [
   { id: 1, name: 'Alice', employeeId: 'EMP001', email: 'alice@example.com' },
-  { id: 2, name: 'Bob', employeeId: 'EMP002', email: 'bob@example.com' },
-  { id: 3, name: 'Charlie', employeeId: 'EMP003', email: 'charlie@example.com' },
-  { id: 4, name: 'Tom', employeeId: 'EMP004', email: 'tom@example.com' },
-  { id: 5, name: 'Sarah', employeeId: 'EMP005', email: 'sarah@example.com' },
+//   { id: 2, name: 'Bob', employeeId: 'EMP002', email: 'bob@example.com' },
+//   { id: 3, name: 'Charlie', employeeId: 'EMP003', email: 'charlie@example.com' },
+//   { id: 4, name: 'Tom', employeeId: 'EMP004', email: 'tom@example.com' },
+//   { id: 5, name: 'Sarah', employeeId: 'EMP005', email: 'sarah@example.com' },
   { id: 6, name: 'David', employeeId: 'EMP006', email: 'david@example.com' },
   { id: 7, name: 'Michael', employeeId: 'EMP007', email: 'michael@example.com' },
   { id: 8, name: 'John', employeeId: 'EMP008', email: 'john@example.com' },
